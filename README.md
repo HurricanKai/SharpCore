@@ -1,5 +1,9 @@
 # SharpCore
 
+Get SharpCore
+----------------
+Jenkins:
+[![Build Status](http://84.200.222.238:8080/buildStatus/icon?job=Github.HurricanKai.SharpCore)](http://84.200.222.238:8080/job/Github.HurricanKai.SharpCore/)
 What is SharpCore?
 ----------------
 SharpCore is the main plugin for SharpMC which provides the basic most basic commands needed for server operation.
